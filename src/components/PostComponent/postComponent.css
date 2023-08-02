@@ -247,10 +247,7 @@
         color: white;
     }
 
-    .selectedTag {
-        background-color: #5CA5A5;
-        color: white;
-    }
+
 }
 
 
@@ -392,4 +389,9 @@
         background-color: #5CA5A5;
         color: white;
     }
+}
+
+.selectedTag {
+    background-color: #5CA5A5;
+    color: white;
 }
